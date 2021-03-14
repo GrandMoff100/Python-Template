@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# Repl.it
+.replit
+*.toml
+*.lock
+
 # Distribution / packaging
 .Python
 build/
